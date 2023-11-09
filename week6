@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "toc-autonumbering": true,
+    "toc-showmarkdowntxt": true,
+    "language_info": {
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "version": "3.10.2"
+    },
+    "kernelspec": {
+      "name": "xeus-python",
+      "display_name": "Python (XPython)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Week 6 test",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## This are some data science libraries and tools",
+      "metadata": {
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Libraries:\n- Pandas\n- NumPy\n- Matplotlib\n- Seaborn\n- Scikit-learn",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Tools:\n- Jupyter\n- VS Code  Git\n- GitHub  SQL\n- Pandas\n- Matplotlib\n- Seaborn\n- Scikit-learn",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Let's do some arithmetic expression examples",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "#Multiply\nn1=2\nn2=12\nm=n1*n2\nprint(f\"The multiplication between {n1} and {n2} is {m}\")\ns=n1+n2\nprint(f'Their sum is {s}')",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 12,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "The multiplication between 2 and 12 is 24\nTheir sum is 14\n",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "# convert minutes to hours\nm=120\nh=m/60\nprint (f'{m}minutes are {h} hours')",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 13,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "120minutes are 2.0 hours\n",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Objectives:\n- Understand the fundamentals of data science languages.\n- Explore data science libraries.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Author:\nTrionfetti Federico",
+      "metadata": {}
+    }
+  ]
+}
